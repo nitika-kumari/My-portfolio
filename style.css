@@ -1112,6 +1112,10 @@ form button {
         display: none;
     }
 
+    .about-img img{
+        width: 100%;
+    }
+
     .left{
         width: 90%;
     }
